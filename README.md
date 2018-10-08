@@ -1,3 +1,3 @@
 # pynetb
 
-Create a merge conflict
+### Repository for use in Git videos
